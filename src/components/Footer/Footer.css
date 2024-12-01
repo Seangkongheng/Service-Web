@@ -1,0 +1,32 @@
+.footer-container{
+    margin-top: -60px;
+    width: 100%;
+    height: auto;
+    color: rgb(126, 126, 126);
+    background-color: #1d1d36;
+}
+.footer-content{
+    padding: 100px 200px;
+}
+.footer-list-item ul {
+    margin-top: 20px;
+    list-style-type: none;
+
+}
+.footer-list-item ul li{
+    margin-top: 5px;
+}
+.footer-list{
+    display: flex;
+    gap: 4rem;
+    justify-content: space-between;
+}
+.footer-branch{
+    width: 400px;
+}.footer-branch p{
+    margin-top: 20px;
+}
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+}

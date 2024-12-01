@@ -1,0 +1,25 @@
+.nav-container{
+    padding: 0 200px;
+    background-color: #1d1d36;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 0;
+}
+nav ul li{
+    color: white;
+    list-style-type: none;
+    transition: 0.3s ease-in-out;
+}
+nav ul {
+    display: flex;
+    gap: 1.5rem;
+}
+.nav-brand h3{
+    color: white;
+}
+nav ul li:hover{
+    color: brown;
+    cursor: pointer;
+}

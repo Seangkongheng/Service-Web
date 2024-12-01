@@ -1,0 +1,18 @@
+.programming-container{
+    width: 100%;
+    padding:200px 200px;
+    background-color: blue;
+}
+.programming-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.programming-description{
+    width: 500px;
+    color: white;
+}
+.programming-description p{
+    margin-top: 20px;
+}
